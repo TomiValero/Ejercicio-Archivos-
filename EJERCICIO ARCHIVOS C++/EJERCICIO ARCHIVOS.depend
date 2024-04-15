@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1698180616 source:c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"rlutilPlusPlus.h"
+	"clsFecha.h"
+	"funcionesGlobales.h"
+	"clsTipodeDeporte.h"
+	"clsRegistroTipo.h"
+	"clsEquipo.h"
+	"clsRegistroEquipo.h"
+	"clsDeportes.h"
+	"clsRegistroDepo.h"
+	"clsJugadores.h"
+	"clsRegistro.h"
+	"subMenuJugadores.h"
+	"subMenuDeportes.h"
+	"subMenuEquipos.h"
+	"subMenuTipo.h"
+	"funcionesConfiguracion.h"
+	"subMenuConfiguracion.h"
+	"reportes.h"
+
+1685557341 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698180554 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\rlutilplusplus.h
+
+1695055794 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\clsfecha.h
+
+1693485696 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\funcionesglobales.h
+
+1699024457 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\clstipodedeporte.h
+
+1699024724 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\clsregistrotipo.h
+
+1699024179 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\clsequipo.h
+
+1699024669 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\clsregistroequipo.h
+
+1699024724 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\clsdeportes.h
+
+1699531633 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\clsregistrodepo.h
+
+1699533865 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\clsjugadores.h
+
+1698267372 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\clsregistro.h
+
+1698263375 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\submenujugadores.h
+
+1698263722 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\submenudeportes.h
+
+1698926688 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\submenuequipos.h
+
+1698267196 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\submenutipo.h
+
+1699487255 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\funcionesconfiguracion.h
+
+1699452790 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\submenuconfiguracion.h
+
+1699536591 c:\users\tomas\onedrive\escritorio\repositorio\tomas_valero\reportes.h
+
