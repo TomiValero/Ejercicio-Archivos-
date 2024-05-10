@@ -79,18 +79,44 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="deportes.bkp" />
-    <None Include="deportes.dat" />
-    <None Include="deportesInicio.dat" />
-    <None Include="deportespunto1.dat" />
-    <None Include="equipos.bkp" />
-    <None Include="equipos.dat" />
-    <None Include="equiposIni.bkp" />
-    <None Include="jugadoresInicio.dat" />
-    <None Include="jugadores.bkp" />
-    <None Include="jugadores.dat" />
-    <None Include="TipodeDeporteIni.bkp" />
-    <None Include="TipodeDeporte.bkp" />
-    <None Include="TipodeDeporte.dat" />
+    <None Include="TipodeDeporteIni.bkp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="deportes.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="deportesInicio.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="deportespunto1.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="equipos.bkp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="equipos.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="equiposIni.bkp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="jugadores.bkp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="jugadores.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="jugadoresInicio.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TipodeDeporte.bkp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TipodeDeporte.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="deportes.bkp">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
